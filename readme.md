@@ -9,3 +9,7 @@ Installer une librairie , un paquet :
 Supprimer une librairie , un paquet :
 
 `composer remove vendor/nom_paquet`
+
+Mettre à jour une librairie , un paquet :
+
+`composer update vendor/nom_paquet`

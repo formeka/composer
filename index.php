@@ -1,16 +1,7 @@
 <?php
-
 require __DIR__ . '/vendor/autoload.php';
 
-//composer require mistic100/randomcolor
-
-use \Colors\RandomColor;
-
-// echo RandomColor::one(); 
-// dump(RandomColor::one()); 
-
 $faker = Faker\Factory::create('fr_FR');
-
 
 ?>
 <!DOCTYPE html>
